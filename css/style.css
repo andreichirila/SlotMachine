@@ -1,0 +1,270 @@
+@charset "utf-8";
+a{
+	color: #ccd500;
+	text-decoration: none;
+}
+/***********   IDs   ************/
+#header table td, #footer table td{
+	vertical-align: middle;
+}
+/***********  CLASSES  *********************/
+img{
+    max-height:100%;
+    max-width:100%;
+    height:auto;
+}
+.turnDeviceNotification {
+  background-image:url('../img/turn_device.png');
+  background-size:cover;
+  //background-color:#9cc7e1;
+  position:fixed;
+  top: 0;
+  left:0;
+  min-height:100%;
+  min-width:100%;
+  display: none;
+  z-index : 999;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+     /* Add your Safari-specific styles here. */
+     .progress-bar{
+     	text-align : left !important;
+     }
+
+     .progress-bar span{
+     	display : block !important;
+     	margin-left:0 !important;
+     	//float : left !important;
+     	//margin-left: 0 !important;
+     }
+
+     .progress-bar .p0{
+     	margin-left : 0.5% !important;
+     }
+     .progress-bar .p250{
+		margin-left : 25% !important;
+	 }
+     .progress-bar .p500{
+		margin-left : 50% !important;
+   	 }
+     .progress-bar .p750{
+		margin-left : 75% !important;
+     }
+     .progress-bar .p1000{
+		margin-left : 96% !important;
+     }
+}
+.all_machines{
+    clear:both;
+    margin: 0 auto;
+    display:flex;
+    position:relative;
+}
+.btn-block{
+	font-weight:bold;
+}
+.clear {
+    clear: both;
+}
+.container_texts{
+    text-align:left !important;
+    padding-top:1em;
+}
+.container{
+    text-align:center;
+    padding-left:0;
+    padding-right:0;
+}
+.counter_numbers{
+    //position:relative;
+    //clear:both;
+    //text-align: center;
+    margin: 0 auto;
+}
+.disabledbutton{
+    pointer-events: none;
+    opacity: 0.6;
+}
+.digital{
+    margin-left:0.6em;
+    margin-right:1.7em;
+    padding:1px;
+}
+.titlu{
+	-webkit-font-weight : bold !important;
+	font-weight : bold !important;
+	margin-bottom : 0;
+}
+.margin_top_nul{
+	margin-top: 0;
+}
+.modal-body{
+	text-align: justify !important;
+}
+.modal-body, .modal-footer {
+    background-color: #9CC7E1;
+    border: none;
+}
+.padding_6_em{
+    padding-top:6em;
+}
+.progress-bar{
+	/*background: #7db9e8; /* Old browsers * /
+    background: -moz-linear-gradient(left, #7db9e8 0%, #1e5799 100%); /* FF3.6+ * /
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,#7db9e8), color-stop(100%,#1e5799)); /* Chrome,Safari4+ * /
+    background: -webkit-linear-gradient(left, #7db9e8 0%,#1e5799 100%); /* Chrome10+,Safari5.1+ * /
+    background: -o-linear-gradient(left, #7db9e8 0%,#1e5799 100%); /* Opera 11.10+ * /
+    background: -ms-linear-gradient(left, #7db9e8 0%,#1e5799 100%); /* IE10+ * /  */
+
+
+    background: #D8EAF8; /* Old browsers */
+	background: -moz-linear-gradient(left, #D8EAF8 0%, #7db9e8 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#D8EAF8), color-stop(100%,#7db9e8)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left, #D8EAF8 0%,#7db9e8 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left, #D8EAF8 0%,#7db9e8 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left, #D8EAF8 0%,#7db9e8 100%); /* IE10+ */
+
+    //background: linear-gradient(to right, #7db9e8 0%,#1e5799 100%); /* W3C -- original*/
+    //filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db9e8', endColorstr='#1e5799',GradientType=1 );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D8EAF8', endColorstr='#7db9e8',GradientType=1 );
+    background: linear-gradient(to right, #D8EAF8 0%,#7db9e8 100%); /* W3C  -- modified*/
+}
+.glyphicon-info-sign{
+	position:absolute;
+	font-size : 2em;
+	cursor:pointer;
+}
+.slotMachine{
+	width: 16.6%;
+	height: 60px;
+	border-radius: 35%;
+	//padding: 1px;
+	overflow: hidden;
+	display: inline-block;
+	text-align: center;
+	border:1px solid black;
+}
+.slotMachine .slot{
+	background-position-x: 50%;
+	background-repeat: no-repeat;
+    background-size:40%;
+    height:6em;
+}
+
+.slot0{
+	background-image: url("../img/ZahlenUnter/0_u.svg");
+	background-position:50% 16%; // for Firefox
+}
+.slot1{
+    background-image: url("../img/ZahlenUnter/1_u.svg");
+    background-position:50% 16%; // for Firefox
+}
+.slot2{
+	background-image: url("../img/ZahlenUnter/2_u.svg");
+	background-position:50% 16%; // for Firefox
+}
+.slot3{
+	background-image: url("../img/ZahlenUnter/3_u.svg");
+	background-position:50% 16%; // for Firefox
+}
+.slot4{
+	background-image: url("../img/ZahlenUnter/4_u.svg");
+	background-position:50% 16%; // for Firefox
+}
+.slot5{
+	background-image: url("../img/ZahlenUnter/5_u.svg");
+	background-position:50% 16%; // for Firefox
+}
+.slot6{
+	background-image: url("../img/ZahlenUnter/6_u.svg");
+	background-position:50% 16%; // for Firefox
+}
+.slot7{
+	background-image: url("../img/ZahlenUnter/7_u.svg");
+	background-position:50% 16%; // for Firefox
+}
+.slot8{
+	background-image: url("../img/ZahlenUnter/8_u.svg");
+	background-position:50% 16%; // for Firefox
+}
+.slot9{
+	background-image: url("../img/ZahlenUnter/9_u.svg");
+	background-position:50% 16%; // for Firefox
+}
+
+.slotMachineButton{
+	width:100px;
+	height: 100px;
+	overflow: hidden;
+	display: inline-block;
+	text-align: center;
+}
+.slotMachineButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #f8c8e4;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f8c8e4;
+	box-shadow:inset 0px 1px 0px 0px #f8c8e4;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffc477), color-stop(1, #fb9e25) );
+	background:-moz-linear-gradient( center top, #ffc477 5%, #fb9e25 100% );
+	background: -ms-linear-gradient(bottom, #fb9e25 0%,#ffc477 100%); /* IE10+ */
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc477', endColorstr='#fb9e25');
+	background-color:#ffc477;
+	border-radius: 15px;
+	text-indent:0px;
+	border:2px solid #eeb44f;
+	//position:absolute;
+	display:inline-block;
+	//display:block;
+	color:#ffffff;
+	font-size:40px;
+	font-weight:bold;
+	font-style:normal;
+	//height:100px;
+	min-height:100%;
+	line-height:90px;
+	width:5em;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #cc9f52;
+	cursor:pointer;
+}
+.slotMachineButton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fb9e25), color-stop(1, #ffc477) );
+	background:-moz-linear-gradient( center top, #fb9e25 5%, #ffc477 100% );
+	background: -ms-linear-gradient(bottom, #ffc477 0%,#fb9e25 100%); /* IE10+ */
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb9e25', endColorstr='#ffc477');
+	background-color:#fb9e25;
+}
+.slotMachineButton:active {
+	position:relative;
+	top:1px;
+}
+.text-center{
+    position : relative;
+    margin-top : -7em;
+}
+.list-group-item .badge{
+    background-color : #3087c0;
+}
+.badge h5{
+    font-weight : bold;
+}
+.vertical {
+    //position: absolute;
+    position: relative;
+    //top:37%;
+    display: inline-block;
+    //width: 30%;
+    //height: 25px;
+    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+    transform: rotate(-90deg);
+}
+.vertical {
+  box-shadow: inset 2px 15px 6px #ccc;
+}
+.vertical span{
+	position: absolute;
+	display: flex;
+	width: 100%;
+	color: black;
+}
+/****************************************************/

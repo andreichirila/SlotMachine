@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="170"
+   height="313"
+   id="svg7201"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="4_u.svg">
+  <defs
+     id="defs7203" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-16.203234"
+     inkscape:cy="122.14541"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1865"
+     inkscape:window-height="1056"
+     inkscape:window-x="1079"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7206">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-739.36218)">
+    <g
+       transform="scale(0.79431878,1.2589404)"
+       style="font-size:361.50430298px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:4.88899994;stroke-miterlimit:4;stroke-opacity:1;font-family:FetteFraktur;-inkscape-font-specification:FetteFraktur Medium"
+       id="text7209">
+      <path
+         d="m 102.85263,777.21318 -99.7751854,0 0,-14.46017 122.5499554,-173.52206 45.54955,0 0,170.63003 36.87343,0 0,14.46017 -36.87343,0 0,36.87344 c -1.7e-4,7.2301 0.96384,11.44765 2.89203,12.65265 2.16885,1.20502 6.8684,1.80753 14.09867,1.80752 l 22.77477,-0.3615 0,8.6761 -148.216765,0 0,-8.6761 19.882736,0 c 5.783984,0.24101 10.604036,-0.482 14.460172,-2.16903 3.855947,-1.92801 5.783967,-5.78405 5.784067,-11.56814 l 0,-34.34291 0,0 m 0,-17.3522 0,-119.29642 -85.676518,119.29642 85.676518,0 0,0"
+         style="line-height:125%;fill:#ff0000;stroke:#000000;font-family:FetteFraktur;-inkscape-font-specification:FetteFraktur Medium"
+         id="path3753" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="170"
+   height="313"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="0_u.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-132.01495"
+     inkscape:cy="116.20872"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1865"
+     inkscape:window-height="1056"
+     inkscape:window-x="1079"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-739.36218)">
+    <g
+       transform="scale(0.7867295,1.2710849)"
+       style="font-size:349.78363037px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;font-family:FetteFraktur;-inkscape-font-specification:FetteFraktur Medium"
+       id="text2985">
+      <path
+         d="m 104.1946,583.60122 c 37.07692,1.63256 64.47661,14.69113 82.19915,39.17576 17.72216,24.48503 26.58334,51.41835 26.58356,80.80002 -2.2e-4,0.23331 -2.2e-4,0.4665 0,0.69957 -2.2e-4,1.2e-4 -2.2e-4,0.11671 0,0.34978 -2.2e-4,30.31467 -9.09458,58.18074 -27.28312,83.59829 -18.18893,25.18443 -44.42267,37.77663 -78.70132,37.77663 -34.512063,0 -60.396026,-12.24242 -77.651966,-36.72728 C 12.084893,764.55601 3.3403115,737.3895 3.1071317,707.7744 c -9.1e-6,-0.46626 -9.1e-6,-0.81604 0,-1.04935 -9.1e-6,-0.46626 -9.1e-6,-0.81604 0,-1.04935 C 3.5735003,676.29403 12.201488,649.24412 28.99112,624.5259 46.013872,599.57489 71.081673,586.04994 104.1946,583.951 l 0,-0.34978 m 24.83464,30.43117 c -1.4e-4,-7.22864 -2.44862,-12.82518 -7.34546,-16.78961 -4.6639,-4.19718 -10.02725,-6.29588 -16.09004,-6.29611 -0.23331,2.3e-4 -0.46649,2.3e-4 -0.69957,0 -1.1e-4,2.3e-4 -0.11671,2.3e-4 -0.34979,0 -5.596639,0.23342 -10.726793,2.44872 -15.390475,6.64589 -4.663872,4.19763 -6.995761,10.61032 -6.995673,19.2381 l 0,178.73944 c 0.699479,8.16163 3.38115,14.34114 8.045024,18.53853 4.663681,4.19741 9.677241,6.4127 15.040694,6.64589 0.23308,0 0.34967,0 0.34979,0 0.23307,0 0.46626,0 0.69956,0 5.82961,0.23319 11.07636,-1.74892 15.74027,-5.94632 4.66365,-4.1974 6.99553,-10.49349 6.99567,-18.88832 l 0,-181.88749 0,0"
+         style="fill:#ff0000;stroke:#000000"
+         id="path3753" />
+    </g>
+  </g>
+</svg>

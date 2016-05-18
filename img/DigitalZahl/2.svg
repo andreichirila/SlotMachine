@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="170"
+   height="313"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="2.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-38.305954"
+     inkscape:cy="175.93581"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-width="1865"
+     inkscape:window-height="1056"
+     inkscape:window-x="1079"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <polygon
+     id="polygon8"
+     style="fill:#f9f9f9;fill-opacity:0.99215686"
+     points="60,60 80,80 80,160 60,180 40,160 40,80 "
+     transform="translate(-30,-27.000003)" />
+  <polygon
+     id="polygon10"
+     style="fill:#000000;fill-opacity:1"
+     points="83,37 147,37 167,57 147,77 83,77 63,57 "
+     transform="translate(-30,-27.000003)" />
+  <polygon
+     id="polygon12"
+     style="fill:#22221e"
+     points="170,60 190,80 190,160 170,180 150,160 150,80 "
+     transform="translate(-30,-27.000003)" />
+  <polygon
+     id="polygon14"
+     style="fill:#000000;fill-opacity:1"
+     points="83,163 147,163 167,183 147,204 83,204 63,183 "
+     transform="translate(-30,-27.000003)" />
+  <polygon
+     id="polygon16"
+     style="fill:#000000;fill-opacity:1"
+     points="60,187 80,207 80,287 60,307 40,287 40,206 "
+     transform="translate(-30,-27.000003)" />
+  <polygon
+     id="polygon18"
+     style="fill:#000000;fill-opacity:1"
+     points="83,290 147,290 167,310 147,330 83,330 63,310 "
+     transform="translate(-30,-27.000003)" />
+  <polygon
+     id="polygon20"
+     style="fill:#f9f9f9;fill-opacity:0.99215686"
+     points="169,187 190,207 190,287 170,307 150,287 150,206 "
+     transform="translate(-30,-27.000003)" />
+</svg>

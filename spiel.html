@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <title>Slot Machine</title>
+
+
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>
+
+</head>
+
+<body id="body">
+<div class="turnDeviceNotification"></div>
+
+
+<div class="progress vertical">
+    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+        <span class="p0">0</span>
+        <span class="p250">250</span>
+        <span class="p500" >500</span>
+        <span class="p750">750</span>
+        <span class="p1000">1000</span>
+    </div>
+</div>
+
+<div class="container" id="container-img">
+
+<span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+
+    <img src="img/slot_machine_1.png" id="back_image"/>
+
+    <div class="counter_numbers">
+        <!-- digital numbers -->
+    </div>
+
+    <div class="all_machines">
+        <!-- slot machines -->
+    </div>
+
+    <div id="nachricht">
+        <!-- Weshow the message with Total Points -->
+    </div>
+
+	<div id="informations">
+        	<!-- We show Informations -->
+    	</div>
+
+    <div class="text-center">
+        <div id="slotMachineButtonShuffle" class="slotMachineButton" style="font-size: 25px">Start&nbsp;!</div>
+        <div id="slotMachineButtonStop" class="slotMachineButton" style="font-size: 25px">Stopp&nbsp;!</div>
+    </div>
+
+</div>
+
+    <div class="container container_texts">
+        <ul class="list-group">
+            <li class="list-group-item">
+                <span class="badge"><h5 id="sinceLastGame"></h5></span>
+                <h4>Energieverbrauch seit dem letzten Spiel</h4>
+            </li>
+            <li class="list-group-item">
+                <span class="badge"><h5 id="sinceFirstGame"></h5></span>
+                <h4>Energieverbrauch seit dem ersten Spiel</h4>
+            </li>
+        </ul>
+        <button type="button" class="btn btn-primary btn-block">Werte senden</button>
+        <br />
+    </div>
+
+</body>
+
+    <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.slotmachine.js"></script>
+    <script type="text/javascript" src="js/CNlib.js"></script>
+    <script type="text/javascript" src="js/spiel.js"></script>
+
+</html>
